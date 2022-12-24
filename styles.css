@@ -1,0 +1,44 @@
+*{
+  margin:5px;
+  padding: 3px;
+  background-color: black;
+  color: white;
+}
+#dropdown{
+  background-color: black;
+  color: white;
+  font-size: larger;
+  padding: 3px 15px;
+  border: 1px solid white;
+}
+#filterBtn{
+background-color: white;
+color: black;
+padding: 7px 60px;
+font-size: larger;
+}
+#forms{
+  margin-left: -7px;
+}
+.addInput{
+  display: inline-block;
+  justify-content: space-around;
+}
+#name{
+  padding:4px 100px;
+  border: 1px solid white;
+}
+#profession{
+  padding:4px 100px;
+  border: 1px solid white;
+}
+#age{
+  padding:4px 100px;
+  border: 1px solid white;
+}
+#adduser{
+background-color: white;
+color: black;
+padding: 7px 40px;
+font-size: larger;
+}
